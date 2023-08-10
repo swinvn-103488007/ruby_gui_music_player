@@ -1,0 +1,259 @@
+12
+1 
+ABBA 
+Voyage
+1
+images/voyage_cover_img.png
+10
+I Still Have Faith In You
+music_lib/IStillHaveFaithInYou.mp3
+Don't Shut Me Down
+music_lib/DontShutMeDown.mp3
+Just A Notion
+music_lib/JustANotion.mp3
+Bumblebee
+music_lib/Bumblebee.mp3
+When You Danced With Me
+music_lib/WhenYouDancedWithMe.mp3
+Ode To Freedom
+music_lib/OdeToFreedom.mp3
+Little Things
+music_lib/LittleThings.mp3
+Keep An Eye On Dan
+music_lib/KeepAnEyeOnDan.mp3
+I Can Be That Woman
+music_lib/ICanBeThatWoman.mp3
+No Doubt About It
+music_lib/NoDoubtAboutIt.mp3
+2
+Bee Gees
+Greatest
+1
+images/greatest_cover_img.jpg
+6
+How Deep Is Your Love
+music_lib/HowDeepIsYourLove.mp3
+I Started A Joke
+music_lib/IStartedAJoke.mp3
+Too Much Heaven
+music_lib/TooMuchHeaven.mp3
+Staying Alive
+music_lib/StayingAlive.mp3
+Alone
+music_lib/Alone.mp3
+More Than A Woman
+music_lib/MoreThanAWoman.mp3
+3 
+Westlife
+Coast To Coast
+1
+images/coast_to_coast_cover_img.jpg
+8
+My Love
+music_lib/MyLove.mp3
+I Lay My Love On You
+music_lib/ILayMyLoveOnYou.mp3
+What Makes A Man
+music_lib/WhatMakesAMan.mp3
+When You Looking Like That
+music_lib/WhenYouLookingLikeThat.mp3
+Puzzle Of My Heart
+music_lib/PuzzleOfMyHeart.mp3
+Fragile Heart
+music_lib/FragileHeart.mp3
+Angel's Wings
+music_lib/AngelsWings.mp3
+Close
+music_lib/Close.mp3
+4 
+Westlife
+The Love Album
+1
+images/the_love_album_cover_img.jpg
+5
+The Rose
+music_lib/TheRose.mp3
+Nothing's Gonna Change My Love for You
+music_lib/NothingsGonnaChangeMyLoveForYou.mp3
+All Out of Love
+music_lib/AllOutOfLove.mp3
+All or Nothing
+music_lib/AllOrNothing.mp3
+Total Eclipse of the Heart
+music_lib/TotalEclipseOfTheHeart.mp3
+5 
+ABBA
+Super Trouper
+1
+images/super_trouper_cover_img.jpg
+10
+Our Last Summer
+music_lib/OurLastSummer.ogg
+Super Trouper
+music_lib/SuperTrouper.ogg
+Happy New Year
+music_lib/HappyNewYear.ogg
+The Way Old Friends Do
+music_lib/TheWayOldFriendsDo.ogg
+Andante Andante
+music_lib/AndanteAndante.ogg
+The Winner Takes It All
+music_lib/TheWinnerTakesItAll.ogg
+Me And I
+music_lib/MeAndI.ogg
+The Piper
+music_lib/ThePiper.ogg
+Lay All Your Love On Me
+music_lib/LayAllYourLoveOnMe.ogg
+On and On and On
+music_lib/OnAndOnAndOn.ogg
+6
+ABBA
+The Visitors
+1
+images/the_visitors_cover_img.jpg
+8
+When All Is Said and Done
+music_lib/WhenAllIsSaidAndDone.mp3
+Head Over Heels
+music_lib/HeadOverHeels.mp3
+Slipping Through My Finger
+music_lib/SlippingThroughMyFingers.mp3
+One of Us
+music_lib/OneOfUs.mp3
+Cassandra
+music_lib/Cassandra.mp3
+Under Attack
+music_lib/UnderAttack.mp3
+Two for The Price of One
+music_lib/TwoForThePriceOfOne.mp3
+I Have A Dream
+music_lib/IHaveADream_ABBA.mp3
+7 
+Westlife
+Greatest Hits
+1
+images/greatest_hits_cover_img.jpg
+10
+Flying Without Wings
+music_lib/FlyingWithoutWings.mp3
+My Love
+music_lib/MyLove.mp3
+You Raise Me Up
+music_lib/YouRaiseMeUp.mp3
+If I Let You Go
+music_lib/IfILetYouGo.mp3
+I Have A Dream
+music_lib/IHaveADream_Westlife.mp3
+Mandy
+music_lib/Mandy.mp3
+Tonight
+music_lib/Tonight.mp3
+Written In The Stars
+music_lib/WrittenInTheStars.mp3
+Seasons In The Sun
+music_lib/SeasonsInTheSun.mp3
+What About Now
+music_lib/WhatAboutNow.mp3
+8 
+Various Artist
+My Favourite
+1
+images/my_favourite_cover_img.jpg
+9
+Love Story
+music_lib/LoveStory_TaylorSwift.mp3
+The Name of The Game
+music_lib/TheNameOfTheGame_ABBA.mp3
+Unbreakable
+music_lib/Unbreakable_ShaneFilan.mp3
+Better Man
+music_lib/BetterMan_Westlife.mp3
+Living On Love
+music_lib/LivingOnLove_AlanJackson.mp3
+Superheroes
+music_lib/Superheroes_TheScript.mp3
+Back to December
+music_lib/BackToDecember_TaylorSwift.mp3
+Heaven
+music_lib/Heaven_ShaneFilan.mp3
+Imagine
+music_lib/Imagine_JohnLennon.mp3
+9
+ABBA
+The Album
+1
+images/the_album_cover_img.jpg
+4
+Take a Chance on Me
+music_lib/TakeAChanceOnMe.mp3
+One Man, One Woman
+music_lib/OneManOneWoman.mp3
+The Name of The Game
+music_lib/TheNameOfTheGame_ABBA.mp3
+Thank You for The Music
+music_lib/ThankYouForTheMusic.mp3
+10 
+Westlife
+Westlife
+1
+images/westlife_cover_img.jpg
+9
+Swear It Again
+music_lib/SwearItAgain.mp3
+Flying Without Wings
+music_lib/FlyingWithoutWings.mp3
+Change The World
+music_lib/ChangeTheWorld.mp3
+Miss You
+music_lib/MissYou.mp3
+If I Let You Go
+music_lib/IfILetYouGo.mp3
+Fool Again
+music_lib/FoolAgain.mp3
+I Don't Wanna Fight
+music_lib/IDontWannaFight.mp3
+More Than Word
+music_lib/MoreThanWord.mp3
+Why Do I Love You
+music_lib/WhyDoILoveYou.mp3
+11
+ABBA 
+Ring Ring
+1
+images/ring_ring_cover_img.jpg
+6
+Waterloo
+music_lib/Waterloo.mp3
+Ring Ring
+music_lib/RingRing.mp3 
+Disilusion
+music_lib/Disillusion.mp3
+People Need Love
+music_lib/PeopleNeedLove.mp3
+Honey, Honey
+music_lib/HoneyHoney.mp3
+Another Town, Another Train
+music_lib/AnotherTownAnotherTrain.mp3
+12 
+ABBA
+Arrival
+1
+images/arrival_cover_img.png
+8
+Angeleyes
+music_lib/Angeleyes.mp3
+When I Kissed The Teacher
+music_lib/WhenIKissedTheTeacher.mp3
+Dancing Queen
+music_lib/DancingQueen.mp3
+Mama Mia
+music_lib/MamaMia.mp3
+SOS
+music_lib/SOS.mp3
+Knowing Me, Knowing You
+music_lib/KnowingMeKnowingYou.mp3
+Fernando
+music_lib/Fernando.mp3
+Money, Money, Money
+music_lib/MoneyMoneyMoney.mp3
